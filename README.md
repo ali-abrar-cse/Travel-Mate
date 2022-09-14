@@ -1,4 +1,4 @@
-# Travel-Mate
+# Travel Mate
 # About Project
 This project aim to help te tourists to get idea about tour plan to several famous area of Bangladesh. Key features are:
 
